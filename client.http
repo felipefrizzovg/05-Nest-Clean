@@ -6,8 +6,8 @@ POST {{baseUrl}}/accounts
 Content-Type: application/json
 
 {
-  "name": "Felipe Frizzo",
-  "email": "felipe1@email.com",
+  "name": "Felipe Frizzo Vilcher Garrido",
+  "email": "felipe2@email.com",
   "password": "123456"
 }
 
@@ -18,6 +18,6 @@ POST {{baseUrl}}/sessions
 Content-Type: application/json
 
 {
-  "email": "felipe1@email.com",
+  "email": "felipe2@email.com",
   "password": "123456"
 }
