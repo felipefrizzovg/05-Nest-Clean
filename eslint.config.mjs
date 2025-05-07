@@ -19,6 +19,7 @@ export default [
     ignores: ['node_modules', 'dist'],
     rules: {
       'no-useless-constructor': 'off',
+      'no-new': 'off',
     },
   },
 ]
